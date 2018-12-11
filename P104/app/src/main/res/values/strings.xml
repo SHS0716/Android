@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">P104</string>
+    <string name="go_nate">네이트 가기</string>
+    <string name="call_911">911전화하기</string>
+    <string name="go_gallery">갤러리 가기</string>
+    <string name="end_app">끝내기</string>
+
+</resources>
